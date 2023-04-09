@@ -26,6 +26,9 @@ practice for low level software design and interview
  - Dynamic Programming
  - Randomized
  
+ ## Problem Solving
+ - comming soon
+ 
 
 ## Life Long Learning Project From
 - GeeksforGeeks
